@@ -80,5 +80,5 @@ export const incrementIfOdd =
       dispatch(incrementByAmount(amount));
     }
   };
-
+// counterSlice.  // counterSliceのmethod (the reducer function) の候補を見ることができる
 export default counterSlice.reducer;

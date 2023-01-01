@@ -13,18 +13,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### command line
 
-npx create-react-app my-app --template redux-typescript
-npm install @reduxjs/toolkit react-redux
+npx create-react-app my-app --template redux-typescript  
+npm install @reduxjs/toolkit react-redux  
 
 
 
-
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
 ## Original instruction:
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
